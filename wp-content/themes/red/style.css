@@ -1,0 +1,12 @@
+/*
+Theme Name:     Red
+Description:    A red theme
+Author:         mali4470
+Template:       storefront
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+#masthead a{
+    color: red;
+}
