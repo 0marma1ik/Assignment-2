@@ -2,12 +2,12 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/what-is-dribble-dreams-foundation/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/
+            http://localhost:8000/project-kenya/
         </loc>
     </url>
     <url>
@@ -18,6 +18,11 @@
     <url>
         <loc>
             http://localhost:8000/contact/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/posts/
         </loc>
     </url>
     <url>
