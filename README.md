@@ -1,5 +1,5 @@
-# cd-wordpress
-continuous deployment wordpress
+# Assignment-2
+Completion of Assignment 2 for UX221
 
 TLDR;
 
